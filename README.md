@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SAMARTH RAJENDRA </h1>
 <h3 align="center">Machine Learning and Data Science Enthusiast</h3>
-- 📫 How to reach me **samarthr007@gmail.com**
+- email: <a href="samarthr007@gmail.com">
 
 - 
 <h3 align="left">Connect with me:</h3>
