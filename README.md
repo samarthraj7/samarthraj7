@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm SAMARTH RAJENDRA </h1>
 <h3 align="center">Machine Learning and Data Science Enthusiast</h3>
-- 📫 How to reach me : email: samarthr007@gmail.com
+- 📫 How to reach me **samarthr007@gmail.com**
+- 
 - connect with me:
 -  <a href="linkedin.com/in/samarth-rajendra-1977a4241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Samarthr" height="30" width="40" /></a>
 - <a href="https://instagram.com/samarth_raj7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samarth_raj7" height="30" width="40" /></a>
