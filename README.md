@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SAMARTH RAJENDRA </h1>
+<h1 align="center">Hi, I'm SAMARTH RAJENDRA </h1>
 <h3 align="center">Machine Learning and Data Science Enthusiast</h3>
 - email: samarthr007@gmail.com
 
