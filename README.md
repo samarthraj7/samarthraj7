@@ -14,7 +14,7 @@
 <a href="https://www.samarthrajendra.com">
   <img src="https://img.shields.io/badge/Portfolio-142449?style=for-the-badge&logo=vercel&logoColor=e0d2bc" alt="Portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/samarth-rajendra-1977a4241">
+<a href="https://www.linkedin.com/in/samarth-rajendra">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:samarth.rajendra@usc.edu">
